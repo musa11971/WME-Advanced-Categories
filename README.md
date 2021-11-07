@@ -11,10 +11,10 @@ For example: abortion clinics, dentists and estate agents are not categories tha
 Feel free to submit a pull request to add support to your country, or to change the advanced categories.
 
 ## Examples
-_(1) Searching for an advanced category_
+_(1) Searching for an advanced category_  
 <img src=".github/example_club.png" width="350">  
   
-_(2) Setting a place to 'Voetbalclub' (Soccer Club in Dutch)_
+_(2) Setting a place to 'Voetbalclub' (Soccer Club in Dutch)_  
 <img src=".github/example_soccer_club.gif" width="350">  
 
 ## Install
