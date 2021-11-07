@@ -7,6 +7,7 @@
 // @include      /^https:\/\/(www|beta)\.waze\.com\/(?!user\/)(.{2,6}\/)?editor.*$/
 // @run-at       document-end
 // @exclude      https://www.waze.com/*user/*editor/*
+// @downloadURL  https://github.com/musa11971/WME-Advanced-Categories/raw/master/wme-advanced-categories.user.js
 // @grant        none
 // ==/UserScript==
 let WME_Advanced_Categories = {
