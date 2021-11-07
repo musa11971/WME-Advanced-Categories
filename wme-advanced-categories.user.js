@@ -21,6 +21,7 @@ let WME_Advanced_Categories = {
                 'Afvalverwerkingsbedrijf': ['TRASH_AND_RECYCLING_FACILITIES'],
                 'Auto schadeherstel/Autoplaatwerk': ['GARAGE_AUTOMOTIVE_SHOP'],
                 'Automaterialen winkel': ['GARAGE_AUTOMOTIVE_SHOP'],
+                'Atletiekbaan': ['SPORTS_COURT'],
                 'Basisschool': ['SCHOOL'],
                 'Beddenwinkel': ['FURNITURE_HOME_STORE'],
                 'Beek': ['RIVER_STREAM'],
@@ -36,6 +37,7 @@ let WME_Advanced_Categories = {
                 'Crematorium': ['PROFESSIONAL_AND_PUBLIC'],
                 'Computerwinkel': ['ELECTRONICS'],
                 'Cosmeticawinkel': ['SHOPPING_AND_SERVICES'],
+                'Cruyff Court': ['SPORTS_COURT'],
                 'COVID-19 testsite/Vaccinatie site': ['OTHER'],
                 'Dierenasiel': ['PROFESSIONAL_AND_PUBLIC'],
                 'Drogist': ['PERSONAL_CARE'],
@@ -106,6 +108,8 @@ let WME_Advanced_Categories = {
                 'Verzorgingstehuis': ['PROFESSIONAL_AND_PUBLIC'],
                 'Viswinkel': ['FOOD_AND_DRINK'],
                 'Voedselbank': ['FOOD_AND_DRINK'],
+                'Voetbalkooi': ['SPORTS_COURT'],
+                'Voetbalveld': ['SPORTS_COURT'],
                 'Wasstraat/Carwash/Wasbox': ['CAR_WASH'],
                 'Waterval': ['RIVER_STREAM']
             }
