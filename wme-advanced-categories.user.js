@@ -110,14 +110,9 @@ let WME_Advanced_Categories = {
                 'Voedselbank': ['FOOD_AND_DRINK'],
                 'Voetbalkooi': ['SPORTS_COURT'],
                 'Voetbalveld': ['SPORTS_COURT'],
+                'Voetbalclub': ['SPORTS_COURT', 'CLUB'],
                 'Wasstraat/Carwash/Wasbox': ['CAR_WASH'],
                 'Waterval': ['RIVER_STREAM']
-            }
-        },
-        // Belgium
-        BE: {
-            categories: {
-
             }
         }
     },
