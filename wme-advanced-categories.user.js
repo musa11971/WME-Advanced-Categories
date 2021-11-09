@@ -60,7 +60,6 @@ let WME_Advanced_Categories = {
                 'Kerk': ['RELIGIOUS_CENTER'],
                 'Keukenwinkel': ['FURNITURE_HOME_STORE'],
                 'Kinderboerderij': ['ZOO_AQUARIUM'],
-                'Kinderopvang': ['PROFESSIONAL_AND_PUBLIC'],
                 'Kringloopwinkel': ['SHOPPING_AND_SERVICES'],
                 'Lingeriewinkel': ['FASHION_AND_CLOTHING'],
                 'Makelaar': ['OFFICES'],
